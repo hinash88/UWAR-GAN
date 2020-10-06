@@ -1,1 +1,1 @@
-# NFGAN
+# AR-GAN
